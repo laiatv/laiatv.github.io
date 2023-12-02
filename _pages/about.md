@@ -6,7 +6,7 @@ subtitle: Interaction Design Researcher
 
 profile:
   align: right
-  image: laiaPIC.jpg
+  image: lai.jpg
   image_circular: true # crops the image to make it circular
   #address: >
     #<p>555 your office number</p>
