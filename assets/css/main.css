@@ -517,7 +517,7 @@ footer.sticky-bottom {
   margin-bottom: 1rem;
 }
 .publications h2 span {
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .publications h2.year {
   color: var(--global-divider-color);
