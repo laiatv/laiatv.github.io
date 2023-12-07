@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human Computer Interaction & Interaction Design Researcher
+subtitle: Interaction Design Researcher
 
 profile:
   align: right
@@ -25,4 +25,4 @@ I have designed, deployed and evaluated technologies in multiple settings of hea
 
 I hold a PhD and MSc in Human Computer Interaction (Uppsala University, Sweden) and a BDes in Multimedia Technologies (Polytechnic University of Catalunya, Spain). I am currently a Digital Future's Postdoc Researcher at KTH Royal Institute of Technology (Sweden). Previously, I was a postdoc at i_mBODY Lab (Madrid, Spain) and a research visitor at University College London Interaction Center (UK).
 
-Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), sports and spending time walking and foraging the forests of Sweden. Get in contact with me through the links below.
+Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), sports and spending time walking and foraging the forests of Sweden. Get in contact with me through:
