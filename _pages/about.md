@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Laia. I research multisensory technologies that enrich people's body perception through e.g. sensory augmentations, or alterations. My premise is that enriching body perception can be leveraged to promote physical, emotional and social wellbeing. 
+Hello, I am Laia. I do research at the intersection of Interaction Design, body experiences and health & wellbeing. In particular, I investigate multisensory technologies that can enrich people's body perception (through e.g. sensory augmentations, or alterations) to promote physical, emotional and social wellbeing. 
 
 I have designed, deployed and evaluated technologies in multiple settings of health and wellbeing, such as sports, fitness practices, rehabilitation, exergames, functional exercises, or professional dance. My research interests include wearable computing, personalization, material interactions, participatory design and soma design methods. 
 
