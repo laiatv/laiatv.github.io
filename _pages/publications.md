@@ -4,8 +4,8 @@ permalink: /publications/
 title: publications
 <!--description: -->
 <!--years: [2023, 2022, 2021, 2020, 2019, 2018, 2016]
-<!--nav: true-->
-<!--nav_order: 1-->
+nav: true
+nav_order: 3
 ---
 My work has been published in premier HCI and IxD venues such as CHI, DIS, TEI, UBICOMP and TOCHI, as well as in area-specific venues such as CHIPlay, NordiCHI, MOCO and IDC. 
 
