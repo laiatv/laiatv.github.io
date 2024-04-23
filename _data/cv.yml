@@ -1,12 +1,12 @@
-<!-- title: General Information -->
- <!-- type: map-->
- <!-- contents:-->
-  <!--  - name: Full Name -->
-  <!--    value: Albert Einstein -->
- <!--   - name: Date of Birth-->
- <!--     value: 14th March 1879 -->
-  <!--  - name: Languages-->
- <!--     value: English, German-->
+title: General Information 
+type: map
+ contents:
+ - name: Full Name 
+ value: Albert Einstein 
+ - name: Date of Birth
+  value: 14th March 1879 
+  - name: Languages
+  value: English, German
 
 - title: Education
   type: time_table
@@ -17,18 +17,15 @@
       description:
         - Description 1.
         - Description 2.
-       <!-- - title: Description 3.-->
-       <!--   contents:-->
-       <!--     - Sub-description 1.-->
-       <!--     - Sub-description 2.-->
+       
     - title: MSc in Human Computer Interaction
       institution: Uppsala University, Uppsala, Sweden
       year: 2015
-      <!-- description:-->
+     description:
   - title: BSc in Multimedia Technology
       institution: Polytechnic University of Catalonia, Spain
       year: 2013
-      <!-- description:-->
+    description:
 
 - title: Relevant Professional Experience
   type: time_table
