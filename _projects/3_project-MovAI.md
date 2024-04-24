@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MovAI
-description: a project that redirects to another website
+description: Interactive machine learning for personalized physical training
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
