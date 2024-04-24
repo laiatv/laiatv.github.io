@@ -6,10 +6,11 @@ img: assets/img/yoga.png
 importance: 4
 category: work
 ---
-**Years:** 2018-2020     **Location**: Uppsala University
+**Years:** 2018-2020     **Location**: Uppsala University, Sweden
 
 **In collaboration with**: Chris Boyer Yoga and Movement therapy, Hui Zhu Personal Trainer, Cirkus Cirkör
 
+Enlightened Yoga was.....
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/yoga2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -22,7 +23,7 @@ category: work
     </div>
 </div>
   
-Enlightened Yoga was.....
+
 
 
 
