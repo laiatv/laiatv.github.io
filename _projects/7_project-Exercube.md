@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: a project with no image
+title: Exercube
+description: Evaluating XR immersive fitness exergames
 img:
 importance: 4
 category: work
