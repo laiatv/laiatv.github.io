@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EnlightenED
-description: Visual movement augmentations for motor teaching & learning
+description: Visual movement augmentations in motor teaching & learning practices
 img: assets/img/yoga.png
 importance: 4
 category: work
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/yoga.jpg
     ---
 
 <div class="row">
