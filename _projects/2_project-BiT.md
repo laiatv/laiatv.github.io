@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BODYinTRANSIT
-description: a project with a background image
+description: Body perception transformation experiences through sensory feedback
 img: assets/img/3.jpg
 importance: 2
 category: work
