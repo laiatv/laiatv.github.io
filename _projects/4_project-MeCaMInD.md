@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: MeCaMInD
+description: Movement-based Cards for Interaction Design
 img:
 importance: 3
 category: fun
