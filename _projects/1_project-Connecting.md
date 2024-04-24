@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Connecting Bodies
+description: Shape-changing technology to connect bodies through space and time
 img: assets/img/12.jpg
 importance: 1
 category: work
