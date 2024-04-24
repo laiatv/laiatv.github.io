@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BODYinTRANSIT
+title: BODY in TRANSIT
 description: Body perception transformation experiences through sensory feedback
 img: assets/img/3.jpg
 importance: 2
