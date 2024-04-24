@@ -6,10 +6,7 @@ img: assets/img/yoga.png
 importance: 4
 category: work
 ---
-
-**Keywords**: sensorimotor augmentation, wearable, performance training, participatory design, practice design.
-
-**Years:** 2018-2020  **Location**: Uppsala University
+**Years:** 2018-2020     **Location**: Uppsala University
 
 **In collaboration with**: Chris Boyer Yoga and Movement therapy, Hui Zhu Personal Trainer, Cirkus Cirkör
 
