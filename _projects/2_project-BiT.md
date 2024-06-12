@@ -45,5 +45,9 @@ Judith Ley-Flores, **Laia Turmo Vidal**, Elena Márquez Segura, Aneesha Singh, F
 
 **Laia Turmo Vidal**, José Manuel Vega-Cebrián, Amar D'Adamo, Marte Roel Lesur, Mohammad Mahdi Dehshibi, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2023. [On Futuring Body Perception Transformation Technologies: Roles, Goals and Values](https://doi.org/10.1145/3616961.3616991) In Proc. Mindtrek, 2023. 
 
+Joaquín Roberto Díaz Durán, **Laia Turmo Vidal**, and Ana Tajadura Jiménez. 2023. [Joakinator: An Interface for Transforming Body Movement and Perception through Machine Learning and Sonification of Muscle-Tone and Force](https://nime.org/proc/nime2023_12/index.html). In Proc. NIME (2023).
+
+Bruna Beatriz Petreca, Ana Tajadura-Jiménez, **Laia Turmo Vidal**, Ricardo O Nascimento, Hasti Seifi, Judith Ley-Flores, Aneesha Singh, Nadia Berthouze, Marianna Obrist, and Sharon Baurley. 2023. [Body x Materials: A workshop exploring the role of material-enabled body-based multisensory experiences](https://doi.org/10.1145/3544549.3573807). In EA. ACM CHI, 2023.
+
 Judith Ley-Flores, **Laia Turmo Vidal**, Nadia Berthouze, Aneesha Singh, Frédéric Bevilacqua, and Ana Tajadura-Jiménez. 2021. [SoniBand: Understanding the Effects of Metaphorical Movement Sonifications on Body Perception and Physical Activity](https://doi.org/10.1145/3411764.3445558
 ). In Proc. ACM CHI, 2021.
