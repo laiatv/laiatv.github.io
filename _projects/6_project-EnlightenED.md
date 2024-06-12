@@ -26,8 +26,17 @@ The designs in Enlighten(ed) improved movement teaching & learning in manifold w
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/proj_ed1.png" title="BodyLights in strength training" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/yoga1.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
+    </div>
    <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/proj_ed3.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
+    </div>
+<div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/yoga3.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
+    </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/yoga4.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
