@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enlighten(ed)
-description: Visual movement augmentations for movement teaching & learning
+description: Visual feedback for movement teaching & learning
 img: assets/img/yoga.png
 importance: 4
 category: work
