@@ -46,7 +46,7 @@ The designs in Enlighten(ed) improved movement teaching & learning in manifold w
 
 **Laia Turmo Vidal**, Elena Márquez Segura, and Annika Waern. 2023. [Intercorporeal Biofeedback for Movement Learning](https://doi.org/10.1145/3582428). In TOCHI, 2023.
 
-Alessandra Semeraro and **Laia Turmo Vidal**. 2022. [Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos] (https://doi.org/10.1145/3491102.3517735). In Proc. ACM CHI, 2022.
+Alessandra Semeraro and **Laia Turmo Vidal**. 2022. [Visualizing Instructions for Physical Training: Exploring Visual Cues to Support Movement Learning from Instructional Videos](https://doi.org/10.1145/3491102.3517735). In Proc. ACM CHI, 2022.
 
 **Laia Turmo Vidal**, Hui Zhu, Annika Waern, and Elena Márquez Segura. 2021. [The Design Space of Wearables for Sports and Fitness Practices](https://doi.org/10.1145/3411764.3445700). In Proc. ACM CHI, 2021.
 
