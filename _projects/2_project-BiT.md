@@ -35,15 +35,15 @@ In this project, I led the interaction design research efforts. My focus was on 
 
 **PUBLICATIONS**:
 
-**Laia Turmo Vidal**, José Vega-Cebrián, María Gastelum, Elena Márquez Segura, Judith Ley-Flores, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2024. [Body Sensations as Design Material: An Approach to Design Sensory Technology for Altering Body Perception] (https://doi.org/10.1145/3643834.3660701). In Proc. ACM DIS, 2024.
+**Laia Turmo Vidal**, José Vega-Cebrián, María Gastelum, Elena Márquez Segura, Judith Ley-Flores, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2024. [Body Sensations as Design Material: An Approach to Design Sensory Technology for Altering Body Perception](https://doi.org/10.1145/3643834.3660701). In Proc. ACM DIS, 2024.
 
 Amar D'Adamo, Marte Roel Lesur, **Laia Turmo Vidal**, Mohammad Mahdi Dehshibi, Daniel De La Prida, Joaquín R. Diaz-Durán, Luis Antonio Azpicueta-Ruiz, Aleksander Väljamäe, and Ana Tajadura-Jiménez. 2024. [SoniWeight Shoes: Investigating Effects and Personalization of a Wearable Sound Device for Altering Body Perception and Behavior](https://doi.org/10.1145/3613904.3642651). In Proc. ACM CHI, 2024.
 
-Judith Ley-Flores, **Laia Turmo Vidal**, Elena Márquez Segura, Aneesha Singh, Frederic Bevilacqua, Francisco Cuadrado, Joaquín Roberto Díaz Durán, Omar Valdiviezo-Hernández, Milagrosa Sánchez-Martin, and Ana Tajadura-Jiménez. 2024. [Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations] (https://doi.org/10.1145/3643499). In Proc. ACM IMWUT, 2024.
+Judith Ley-Flores, **Laia Turmo Vidal**, Elena Márquez Segura, Aneesha Singh, Frederic Bevilacqua, Francisco Cuadrado, Joaquín Roberto Díaz Durán, Omar Valdiviezo-Hernández, Milagrosa Sánchez-Martin, and Ana Tajadura-Jiménez. 2024. [Co-Designing Sensory Feedback for Wearables to Support Physical Activity through Body Sensations](https://doi.org/10.1145/3643499). In Proc. ACM IMWUT, 2024.
 
-**Laia Turmo Vidal**, Ana Tajadura-Jiménez, José Manuel Vega-Cebrián, Judith Ley-Flores, Joaquin R. Díaz-Durán, and Elena Márquez Segura. 2024. [Body Transformation: An Experiential Quality of Sensory Feedback Wearables for Altering Body Perception] (https://doi.org/10.1145/3623509.3633373). In Proc. ACM TEI, 2024.
+**Laia Turmo Vidal**, Ana Tajadura-Jiménez, José Manuel Vega-Cebrián, Judith Ley-Flores, Joaquin R. Díaz-Durán, and Elena Márquez Segura. 2024. [Body Transformation: An Experiential Quality of Sensory Feedback Wearables for Altering Body Perception](https://doi.org/10.1145/3623509.3633373). In Proc. ACM TEI, 2024.
 
-**Laia Turmo Vidal**, José Manuel Vega-Cebrián, Amar D'Adamo, Marte Roel Lesur, Mohammad Mahdi Dehshibi, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2023. [On Futuring Body Perception Transformation Technologies: Roles, Goals and Values] (https://doi.org/10.1145/3616961.3616991) In Proc. Mindtrek, 2023. 
+**Laia Turmo Vidal**, José Manuel Vega-Cebrián, Amar D'Adamo, Marte Roel Lesur, Mohammad Mahdi Dehshibi, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2023. [On Futuring Body Perception Transformation Technologies: Roles, Goals and Values](https://doi.org/10.1145/3616961.3616991) In Proc. Mindtrek, 2023. 
 
-Judith Ley-Flores, **Laia Turmo Vidal**, Nadia Berthouze, Aneesha Singh, Frédéric Bevilacqua, and Ana Tajadura-Jiménez. 2021. [SoniBand: Understanding the Effects of Metaphorical Movement Sonifications on Body Perception and Physical Activity] (https://doi.org/10.1145/3411764.3445558
+Judith Ley-Flores, **Laia Turmo Vidal**, Nadia Berthouze, Aneesha Singh, Frédéric Bevilacqua, and Ana Tajadura-Jiménez. 2021. [SoniBand: Understanding the Effects of Metaphorical Movement Sonifications on Body Perception and Physical Activity](https://doi.org/10.1145/3411764.3445558
 ). In Proc. ACM CHI, 2021.
