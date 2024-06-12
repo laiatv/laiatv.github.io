@@ -8,7 +8,7 @@ category: work
 ---
 **Years:** 2017-2021     **Location**: Uppsala University, Sweden
 
-**In collaboration with**: Hui Zhu (Personal Trainer), Chris Boyer Yoga and Movement therapy, Alessandra Semeraro, Elena Márquez Segura, Annika Waern
+**In collaboration with**: Hui Zhu (Personal Trainer), Chris Boyer Yoga and Movement therapy, Alessandra Semeraro, [MovIntPlayLab](https://movintplaylab.com/), Annika Waern (PhD supervisor)
 
 Vision is one of the most predominant senses, people are highly skilled at, and used to, understanding diverse visual input (including movement, light, shape, and color). Interactive technologies offer the possibility of visualizing elusive body aspects (such as movement qualities, heart rate, and so on), in ways that go above and beyond the information that is otherwise available to us.
 
