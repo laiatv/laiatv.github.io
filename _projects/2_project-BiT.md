@@ -12,9 +12,9 @@ category: work
 
 The way we perceive our body (our own body size, shape, capabilities, among others) deeply influences our behaviour, our emotions and our social interactions. Our body perception is highly plastic and can be altered through sensor-based and bodily sensory feedback interactions.
 
-"Body in Transit" is a project funded by an ERC Consolidator Grant. It combines cognitive neuroscience, interaction design, interactive arts, and machine learning to explore and design sensory-driven changes in body perception.
+[Body in Transit](https://bodyintransit.eu/) is a project funded by an ERC Consolidator Grant. It combines cognitive neuroscience, interaction design, interactive arts, and machine learning to explore and design sensory-driven changes in body perception.
 
-In this project, I led the interaction design research efforts. My focus was on designing and evaluating various audio and haptic feedback wearables to induce desirable perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). Additionally, I articulated design knowledge (methods and experiential qualities) to aid in the design and evaluation of interactive experiences that transform body perception. Finally, I led collective speculation work within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future. 
+I led the interaction design research efforts within the project. My focus was on designing and evaluating various audio and haptic feedback wearables to induce desirable perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). Additionally, I articulated design knowledge (methods and experiential qualities) to aid in the design and evaluation of interactive experiences that transform body perception. Finally, I led collective speculation work within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future. 
 
 
 <div class="row">
@@ -22,10 +22,10 @@ In this project, I led the interaction design research efforts. My focus was on 
         {% include figure.html path="assets/img/proj_BiT1.png" title="SoniBand" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_BiT3.png" title="Joakinator and Vibrants" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_BiT2.png" title="Joakinator and Vibrants" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_BiT4.png" title="SoniBand in movement" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_BiT5.png" title="SoniBand in movement" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
