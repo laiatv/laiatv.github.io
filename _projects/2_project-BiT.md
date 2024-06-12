@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Body in Transit
-description: Exploring body perception transformation experiences through interactive sensory feedback loops
+description: Exploring body perception transformation experiences through interactive sensory feedback
 img: assets/img/proj_BiT2.png
 importance: 2
 category: work
