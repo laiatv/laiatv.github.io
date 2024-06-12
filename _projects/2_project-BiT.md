@@ -6,7 +6,7 @@ img: assets/img/proj_BiT2.png
 importance: 2
 category: work
 ---
-**Years:** 2022-2023                **Location**: Universidad Carlos III de Madrid, Madrid, Spain
+**Years:** 2022-2023                      **Location**: Universidad Carlos III de Madrid, Madrid, Spain
 
 **In collaboration with**: [i_mBODY Lab](https://imbodylab.com/), [UCL Interaction Centre](https://www.ucl.ac.uk/uclic/ucl-interaction-centre) 
 
@@ -14,7 +14,7 @@ The way we perceive our body (our own body size, shape, capabilities, among othe
 
 "Body in Transit" is a project funded by an ERC Consolidator Grant. It combines cognitive neuroscience, interaction design, interactive arts, and machine learning to explore and design sensory-driven changes in body perception.
 
-In this project, I led the interaction design research efforts. My focus was on designing and evaluating various audio and haptic feedback wearables to induce desirable perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). Additionally, I articulated design knowledge (methods and experiential qualities) to aid in the design and evaluation of interactive experiences that transform body perception. Finally, I led collective speculation work within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future.
+In this project, I led the interaction design research efforts. My focus was on designing and evaluating various audio and haptic feedback wearables to induce desirable perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). Additionally, I articulated design knowledge (methods and experiential qualities) to aid in the design and evaluation of interactive experiences that transform body perception. Finally, I led collective speculation work within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future. 
 
 
 <div class="row">
@@ -33,7 +33,7 @@ In this project, I led the interaction design research efforts. My focus was on 
 </div>
 
 
-**PUBLICATIONS**:
+**PUBLICATIONS:**
 
 **Laia Turmo Vidal**, José Vega-Cebrián, María Gastelum, Elena Márquez Segura, Judith Ley-Flores, Joaquín Díaz Durán, and Ana Tajadura-Jiménez. 2024. [Body Sensations as Design Material: An Approach to Design Sensory Technology for Altering Body Perception](https://doi.org/10.1145/3643834.3660701). In Proc. ACM DIS, 2024.
 
