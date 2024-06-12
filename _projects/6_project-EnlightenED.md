@@ -14,7 +14,7 @@ Vision is one of the most predominant senses, people are highly skilled at, and 
 
 Enlighten(ed) encompasses a collection of different design experiments that I engaged with during my PhD. These experiments explored the potential of augmenting movement qualities through visual feedback, with the goal of improving movement teaching & learning. The experiments combined interaction design and movement pedagogy, with a strong participatory design approach involving a variety of movement experts as co-designers. Situated in different practices of movement teaching and learning (i.e. yoga, strength training, home exercise, fast-paced fitness activities), 
 
-Enlighten(ed) produced as design outcomes both a variety of design artefacts (e.g. visual feedback wearables, visual cues in instructional videos) and the (re)design of movement teaching and learning activities to include the artefacts in them in meaningful ways. It also helped articulate the strong concept [Intercorporeal Biofeedback](https://doi.org/10.1145/3582428). 
+Enlighten(ed) produced as design outcomes both a variety of design artefacts (e.g. visual feedback wearables such as BodyLights, visual cues in instructional videos) and the (re)design of movement teaching and learning activities to include the artefacts in them in meaningful ways. It also helped articulate the strong concept [Intercorporeal Biofeedback](https://doi.org/10.1145/3582428). 
 
 The designs in Enlighten(ed) improved movement teaching & learning in manifold ways: they enriched people's aesthetic perception of bodies in motion, improved the communication and understanding between teachers and students, and helped students' performance and their overall understanding of the movement practice.
 
@@ -27,16 +27,13 @@ The designs in Enlighten(ed) improved movement teaching & learning in manifold w
       {% include figure.html path="assets/img/proj_ed1.png" title="BodyLights in strength training" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/yoga1.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/yoga.png" title="BodyLights on the floor in Enlightened Yoga" class="img-fluid rounded z-depth-1" %}
     </div>
    <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/proj_ed3.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
     </div>
-<div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/yoga3.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
-    </div>
   <div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/yoga4.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/yoga4.png" title="BodyLights original system" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
