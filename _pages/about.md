@@ -19,12 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Laia. I investigate novel sensorial and body-centred interactive paradigms for health and well-being. In particular, I focus on the design of emerging interactive technologies that **enrich** and **transform** the experience that we have of our bodies, leveraging them to drive positive physical, emotional and social effects.
+**Hello! I am Laia. I explore novel sensorial and body-centered interactive paradigms to design for health and well-being.**
 
-I have explored, designed, implemented and evaluated interactive technologies such as wearables that utilize sensory feedback loops, immersive mixed-reality environments and, more recently, shape-changing materials. I have worked extensively in contexts of sports, fitness, physical rehabilitation and professional dance, with different populations. My research utilizes design approaches such as Research through Design, Participatory Design, and Soma Design. Theoretically, my design work is often informed by theories such as feminism and phenomenology. 
+I am extremely interested in the possibilities for revolutionising how we experience our bodies through digital innovation. In particular, I focus on emerging, sensory-driven interactive technologies that **enrich** and **transform** the ways we perceive, engage with, and relate to our bodies. My premise is that these technologies can foster physical, emotional, and social effects that can positive contribute to people's quality of life.
 
-My broader research interests include tangible, embedded and embodied technology, material interactions, body perception, and the development of methodologies that center the human body and movement in design.
+My research combines Research through Design, physical prototyping, material experiences and body-centered design methodologies. I am deeply committed to designing for a plurality of bodies, and to do so I draw from theories such as phenomenology and feminism, and apply participatory and soma design methods. I have worked extensively in domains of health and well-being, such as sports and fitness, rehabilitation, physical inactivity and professional dance. 
 
-I hold a PhD and MSc in Human Computer Interaction (Uppsala University, Sweden) and a BSc in Multimedia Technologies (Polytechnic University of Catalunya, Spain). I am currently a Digital Future’s Postdoc Researcher at KTH Royal Institute of Technology. Previously, I was a postdoc in an ERC-CoG grant at i_mBODY Lab (Universidad Carlos III de Madrid, Spain) and a research visitor at University College London Interaction Center (UK).
+My broader research interests include wearable and tangible technology, body perception, personalization, and the development of methodologies that center the human body and movement in design. Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), physical activity and spending time walking and foraging the forests and lakes of Sweden. 
 
-Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), physical activity, and spending time walking and foraging the forests of Sweden. Get in contact with me through:
+You can get in contact with me through:
