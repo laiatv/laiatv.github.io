@@ -25,6 +25,6 @@ I am highly interested in the potential of digital innovations to enrich our bod
 
 My research combines Research through Design, physical prototyping, material experiences and body-centered design methodologies. I am deeply committed to designing for a plurality of bodies, and to do so I draw from theories such as phenomenology and feminism, and apply participatory and soma design methods. I have worked extensively in domains of health and well-being, such as sports and fitness, rehabilitation, physical inactivity and professional dance. 
 
-My broader research interests include wearable and tangible technology, body perception, personalization, and the development of methodologies that center the human body and movement in design. Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), physical activity and spending time walking and foraging the forests and lakes of Sweden. 
+My broader research interests include wearable and tangible technology, body perception, personalization, and the development of methodologies that center the human body and movement in design. 
 
-You can get in contact with me through:
+Besides research, I enjoy [drawing and photoembroidery](https://www.instagram.com/laia.trmvdl/), physical activity and spending time walking and foraging the forests and lakes of Sweden. You can get in contact with me through:
