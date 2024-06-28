@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: assets/pdf/CV-1.pdf
+cv_pdf: example-pdf.pdf
 ---
 I am currently a Digital Future’s Postdoc Researcher at KTH Royal Institute of Technology (Sweden), working on shape-changing technologies and processes of bodily transitions, with Prof. Kia Höök as advisor.
 
