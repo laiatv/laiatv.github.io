@@ -3,7 +3,7 @@ layout: page
 title: another
 permalink: /another/
 description: A growing collection of your cool projects.
-nav: true
+nav: false
 nav_order: 7
 display_categories: [work, fun]
 horizontal: false
