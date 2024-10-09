@@ -25,6 +25,7 @@ In the second case study (still ongoing), we explore the potential of ML to supp
 </div>
 
 
+
 **PUBLICATIONS:**
 
 **Laia Turmo Vidal** and Jared Duval. 2024. [Ambiguity as a Resource to Design for a Plurality of Bodies](https://doi.org/10.1145/3686169.3686176). In Halfway to the Future Symposium, 2024.
