@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enlighten(ed)
-description: (Re)designing movement education with visual augmentations
+description: Visual augmentations to support embodied learning
 img: assets/img/yoga.png
 importance: 4
 category: work
@@ -10,13 +10,13 @@ category: work
 
 **In collaboration with**: Hui Zhu (Personal Trainer), Chris Boyer Yoga and Movement therapy, Alessandra Semeraro, [MovIntPlayLab](https://movintplaylab.com/), Annika Waern (PhD supervisor)
 
-Enlighten(ed) comprises design experiments conducted during my PhD. These experiments explored how interactive visual technologies can augment subtle aspects of our body, making us aware of them beyond our usual sensory capabilities.
+Enlighten(ed) comprises design experiments conducted during my PhD. These experiments explored how interactive visual technologies can augment qualities of our body (for example, movements, alignment, breathing, and so forth), making us become aware of them beyond our usual sensory capabilities.
 
-The experiments aimed to enhance movement education by integrating interaction design and movement pedagogy. They all employed a strong participatory design approach, inviting experts from diverse practices (e.g. yoga, strength training, home exercise, and fast-paced fitness activities) as co-designers.
+The experiments aimed to enhance movement education and embodied learning by integrating interaction design and movement pedagogy. They all employed co-design approaches, inviting practitioners and experts from diverse somatic practices (e.g. yoga, strength training, home exercises, and fast-paced fitness activities) as co-designers.
 
-Enlighten(ed) produced as design outcomes both various design artifacts (including visual feedback wearables, or instructional videos augmented through visual cues) and their integration into (re)designed movement education activities. It also helped articulate the strong concept [Intercorporeal Biofeedback](https://doi.org/10.1145/3582428). 
+Enlighten(ed) produced as design outcomes both various design artifacts (including visual feedback wearables, or instructional videos augmented through visual cues) and their integration into (re)designed embodied education activities. It also helped articulate the strong concept [Intercorporeal Biofeedback](https://doi.org/10.1145/3582428). 
 
-The designs in Enlighten(ed) significantly improved movement education in manifold ways: by enriching aesthetic perceptions of bodies in motion, improving communication between teachers and students, and enhancing students' performance and understanding of movement practices.
+The designs in Enlighten(ed) significantly improved movement education in manifold ways: by enriching aesthetic perceptions of bodies in motion, improving communication between teachers and students, and enhancing students' performance and understanding of their movement practices.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
