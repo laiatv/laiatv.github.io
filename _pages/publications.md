@@ -7,7 +7,7 @@ title: publications
 nav: true
 nav_order: 3
 ---
-My work has been published in premier HCI and IxD venues such as CHI, DIS, TEI, UBICOMP and TOCHI, as well as in area-specific venues such as CHIPlay, NordiCHI, MOCO, NIME and IDC. 
+My work has been published in premier HCI and IxD venues such as CHI, DIS, TEI, UBICOMP, and TOCHI, as well as in area-specific venues such as ASSETS, CHIPlay, NordiCHI, MOCO, NIME and IDC. 
 
 You can find an updated list of my publications in [Google Scholar](https://scholar.google.com/citations?user=TFogrXkAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Laia-Turmo-Vidal) and [ORCID](https://orcid.org/0000-0002-1769-0138). You can also find project-specific publications under each [project](https://laiatv.github.io/projects/).
 
