@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Body in Transit
-description: Exploring body perception transformation experiences through interactive sensory feedback wearables
+description: Sensorimotor transformations through interactive sensory stimuli
 img: assets/img/proj_BiT2.png
 importance: 2
 category: work
@@ -10,9 +10,11 @@ category: work
 
 **In collaboration with**: [i_mBODY Lab](https://imbodylab.com/), [UCL Interaction Centre](https://www.ucl.ac.uk/uclic/ucl-interaction-centre) 
 
-The way we perceive our body (our own body size, shape, capabilities, among others) deeply influences our behaviour, our emotions and our social interactions. Our body perception is highly plastic and can be altered through sensor-based and bodily sensory feedback interactions. [Body in Transit](https://bodyintransit.eu/) is a project funded by an ERC Consolidator Grant (P.I. Ana Tajadura-Jiménez). It combines cognitive neuroscience, interaction design, interactive arts, and machine learning to explore and design sensory-driven changes in body perception.
+Neuroscience of body perception has shown that our body perception is highly plastic, and can be altered through sensory stimuli that relates to the body. I explored this insight from a design perspective in my postdoc in [Body in Transit](https://bodyintransit.eu/), a project funded by an ERC Consolidator Grant (P.I. Ana Tajadura-Jiménez).
 
-I led the interaction design research efforts within the project - in the context of my postdoc. My focus was on designing and evaluating various audio and haptic feedback wearables to induce desirable perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). Additionally, I articulated design knowledge ([methods](https://doi.org/10.1145/3643834.3660701), [experiential qualities](https://doi.org/10.1145/3623509.3633373)) to aid in the design and evaluation of interactive experiences that transform body perception. Finally, I led collective [speculation work](https://doi.org/10.1145/3616961.3616991) within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future. 
+I led the interaction design research efforts within the project. My focus was on designing and evaluating various audio and haptic stimuli wearables to induce meaningful perceptual transformations in different groups (e.g. physically active and inactive individuals, professional dancers). For example, we explored how metaphorical movement sonifications and haptic vibrational patterns transformed the perceived materiality of the body, the perceived body capabilities, and the own body appearance. We also engaged in co-design work with different groups to explore interesting sensory stimuli and their potential to affect body sensations, as a way to ideate future technologies.
+
+Throughout the project, I articulated design knowledge ([methods](https://doi.org/10.1145/3643834.3660701) and [experiential qualities](https://doi.org/10.1145/3623509.3633373)) to aid in the design and evaluation of interactive experiences that transform body perception. I also led collective [speculation work](https://doi.org/10.1145/3616961.3616991) within our multidisciplinary team to reflect on the potential personal and societal impacts of our designs in a fictitious, near future. 
 
 
 <div class="row">
