@@ -2,6 +2,7 @@
 layout: page
 title: MovAI
 description: Interactive machine learning for personalized physical rehabilitation
+img: assets/img/ci-banner.png
 importance: 3
 category: work
 ---
