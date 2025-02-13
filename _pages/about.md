@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I research and design interactive technologies around key areas of physical health, such as physical activity, rehabilitation, and chronic conditions. My research explores how emerging technologies and novel materials can positively transform our experiences of physical health, by reshaping how we perceive, engage with, and relate to our bodies. Through my designs, I aim at promoting awareness, care, compassion, joy, playfulness and curiosity to our bodies and our health experiences. 
 
-My work challenges normative assumptions about health and abilities by advocating for the design of technologies that respect and do justice to (body) diversity. I emphasize the role of community and collective knowledge, recognizing that designing sustainable and just health technologies require collaborative, situated, and equity-driven approaches.
+My work challenges normative assumptions about health and abilities in health tech by advocating for the design of technologies that respect and do justice to (body) diversity. I emphasize the role of community and collective knowledge, recognizing that designing sustainable and just health technologies require collaborative, situated, and equity-driven approaches.
 
 I draw from critical theories and design approaches that integrate felt bodily experiences, emotions, social relationships and technology. I have worked on wearables, body sonification technologies, novel shape-changing materials, XR technologies and alternative machine learning approaches to health technologies.
 
