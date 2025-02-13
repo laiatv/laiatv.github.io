@@ -1,10 +1,19 @@
 ---
 layout: page
 title: Super Trouper
-description: Circus training with wearables for children with sensorimotor challenges
+description: Promoting physical activity for children with sensorimotor disorders
 img: 
 importance: 3
 category: fun
 ---
+**Years:** 2017-2021                      **Location**: Uppsala, Sweden
 
-Upcoming
+**In collaboration with**: Uppsala University, Sweden's circus company [Cirkus Cirkör](https://cirkor.se/).
+
+upcoming
+
+**PUBLICATIONS:**
+
+
+
+
