@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methodological development
+title: Body-centric Methodologies
 description: Developing design methods and tools for body-centric research
 img:
 importance: 3
