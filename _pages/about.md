@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Hello! I am Laia. I research and design interactive health technologies that center on the sensory experience of our bodies - with a focus on diversity, equity and community.**
+**Hello! I am Laia. I research and design interactive health technologies that center on the felt, sensory experience of our bodies - with a focus on diversity, equity and community.**
 
 I research and design interactive technologies around key areas of physical health, such as physical activity, rehabilitation, and chronic conditions. My research explores how emerging technologies and novel materials can positively transform our experiences of physical health, by reshaping how we perceive, engage with, and relate to our bodies. Through my designs, I aim at fostering meaningful health experiences through promoting body awareness, care, compassion, collaboration, joy, pleasure and curiosity.
 
