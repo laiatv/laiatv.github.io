@@ -25,7 +25,7 @@ I research and design interactive technologies around key areas of physical heal
 
 My work challenges normative assumptions about bodies, health and abilities in health tech by advocating for the design of technologies that respect and do justice to (body) plurality. I emphasize the role of community and collective knowledge, recognizing that designing sustainable and just health technologies require collaborative, situated, and equity-driven approaches.
 
-I draw from critical theories and design approaches that integrate felt bodily experiences, emotions, social relationships and technology. I have worked on wearables, body sonification technologies, novel shape-changing materials, XR technologies and alternative machine learning approaches to health technologies.
+I draw from critical theories and design approaches that integrate felt bodily experiences, emotions, social relationships and technology. I have worked on wearables, body sonification technologies, novel shape-changing materials, XR environments and alternative AI approaches to health technologies.
 
 With my work, I aim to foster sustainable health futures — ones that honor both the physical and felt dimensions of health, while advancing diversity and equity in health tech design. 
 
