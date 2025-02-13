@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Body in Transit
-description: Sensorimotor transformations through interactive sensory stimuli
+description: Somatic transformations through interactive sensory stimuli
 img: assets/img/proj_BiT2.png
 importance: 2
 category: work
