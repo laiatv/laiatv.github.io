@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enlighten(ed)
-description: Visual augmentations to support embodied learning in physical activities
+description: Support embodied learning in physical activities through visual augmentations
 img: assets/img/yoga.png
 importance: 4
 category: work
