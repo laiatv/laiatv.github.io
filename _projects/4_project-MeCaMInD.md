@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MeCaMInD
-description: Movement-based Cards for Interaction Design
+title: Methodological development
+description: Developing design methods and tools for body-centric research
 img:
 importance: 3
 category: fun
