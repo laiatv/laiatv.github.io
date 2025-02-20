@@ -8,7 +8,7 @@ category: work
 ---
 **Years:** 2022-2024                      **Location**: Uppsala, Sweden
 
-**In collaboration with**: Uppsala University, Northern Arizona University's [Playful Health Technology Lab](https://www.phtlab.nau.edu/), KTH Royal Institute of Technology and Umeå University.
+**In collaboration with**: Uppsala University and Northern Arizona University; and with contributions of researchers from KTH Royal Institute of Technology and Umeå University.
 
 Movement sensing technologies have opened up physical rehabilitation and training to the inclusion of modern machine learning (ML) techniques for personalization. The paramount standard for evaluating the success of a ML model has long been its predictive power and accuracy, but even a gold-standard accuracy benchmark fails when it inappropriately misrepresents disabled and minority bodies, and people with diverse physical capabilities. 
 
