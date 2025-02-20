@@ -8,7 +8,7 @@ category: work
 ---
 **Years:** 2017-2021     **Location**: Uppsala University, Sweden
 
-**In collaboration with**: Hui Zhu (Personal Trainer), Chris Boyer Yoga and Movement therapy, Alessandra Semeraro, [MovIntPlayLab](https://movintplaylab.com/), Annika Waern (PhD supervisor)
+**In collaboration with**: Hui Zhu (Personal Trainer), Chris Boyer Yoga and Movement therapy, Alessandra Semeraro, Elena Márquez Segura, Annika Waern (PhD supervisor)
 
 Physical activity (PA) is a key area within health tech research. A core strategy to promote PA is to support people in engaging in, and learning, existing PA practices. Enlighten(ed) comprises design experiments conducted during my PhD that aimed to enhance movement education and embodied learning by integrating interaction design and movement pedagogy. 
 
