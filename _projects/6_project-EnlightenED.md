@@ -17,20 +17,20 @@ Through these experiments, I explored how interactive visual technologies could 
 Enlighten(ed) produced as design outcomes both various design artifacts (including visual feedback wearables, or instructional videos augmented through visual cues) and their integration into (re)designed embodied education activities. It also helped articulate the strong concept [Intercorporeal Biofeedback](https://doi.org/10.1145/3582428). These designs significantly improved PA education in manifold ways: by enriching aesthetic perceptions of bodies in motion, improving communication between teachers and students, and enhancing students' performance and understanding of their own PA practices.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_ed4.png" title="co-design in yoga" class="img-fluid rounded z-depth-1" %}
+       <div class="col-sm mt-3 mt-md-0">
+      {% include figure.html path="assets/img/yoga.png" title="BodyLights on the floor in Enlightened Yoga" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/proj_ed1.png" title="BodyLights in strength training" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-      {% include figure.html path="assets/img/yoga.png" title="BodyLights on the floor in Enlightened Yoga" class="img-fluid rounded z-depth-1" %}
     </div>
    <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/proj_ed3.png" title="visualizations on video" class="img-fluid rounded z-depth-1" %}
     </div>
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.html path="assets/img/yoga4.png" title="BodyLights original system" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/proj_ed4.png" title="lateral body awareness in PA teaching" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
